@@ -26,7 +26,7 @@ LIMITATION:-
 3️⃣ Interact with the visuals and explore the insights.
 
 🖼️ Preview
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](Screenshot.png)
 
 📌  Please Note
 - The data used is public and for educational purposes only.
